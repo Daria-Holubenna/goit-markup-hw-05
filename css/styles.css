@@ -555,7 +555,6 @@ input {
     height: 40px;
     border: none;
     cursor: pointer;
-    min-width: 165px;
 
     font-family: inherit;
     font-weight: 500;
